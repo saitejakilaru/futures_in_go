@@ -1,4 +1,4 @@
-Go Futures
+*Go Futures*
 This Go package provides a simple implementation of futures, allowing you to execute functions asynchronously and retrieve their results.
 
 Installation
